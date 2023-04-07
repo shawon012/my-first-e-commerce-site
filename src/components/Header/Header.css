@@ -1,0 +1,26 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px 100px;
+}
+
+nav.header a {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+nav.header a:hover{
+    color: orange;
+}
+
+
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/shawon012/my-first-e-commerce-site.git
+git push -u origin main */
