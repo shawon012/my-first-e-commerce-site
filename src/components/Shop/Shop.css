@@ -9,3 +9,20 @@
     gap: 45px;
     margin: 50px;
 }
+.btn-proceed{
+    background: #ff9900;
+    width: 100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #ff3030; */
+    border-radius: 4px;
+    color: white;
+    /* height: 56px; */
+    /* font-size: 21px; */
+    align-items: center;
+    
+}
+.proceed-link{
+    text-decoration: none;
+}

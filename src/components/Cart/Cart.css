@@ -5,3 +5,16 @@
     top: 0px;
 }
 
+.btn-clear-cart{
+    width: 100%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #ff3030;
+    border-radius: 4px;
+    color: white;
+    /* height: 56px; */
+    /* font-size: 21px; */
+    align-items: center;
+}
+
