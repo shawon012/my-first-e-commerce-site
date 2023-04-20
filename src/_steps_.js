@@ -6,3 +6,11 @@
  * 5. build> authentication> get started> and enable signin method
  * 6. create signup and login route
 */
+
+/***
+ * 1. Create a context provider.
+ * 2. Create a context and set provider.
+ * 3. Set the children props.
+ * 4. Set context value.
+ * 5. Set the provider.
+ * */ 
